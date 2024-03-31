@@ -1,7 +1,6 @@
 public class Stack {
     int size;
     int[] arr;
-    int data;
     int top = -1;
 
     Stack(int size) {
